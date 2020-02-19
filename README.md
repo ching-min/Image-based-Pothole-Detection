@@ -1,2 +1,2 @@
-# Pothole-Detection-by-Neural-Network
+# Image-based Pothole Detection
 This project was 
